@@ -1,0 +1,7 @@
+{
+  "name": "appmapa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
